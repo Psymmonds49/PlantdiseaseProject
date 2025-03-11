@@ -19,7 +19,6 @@ How to Run the Project
 1. Clone the Repository
 
    ...
-
    $ git clone <repository_url>
    cd PlantDiseaseDetection
    ...
